@@ -1,7 +1,6 @@
 # 🧳 Moonshot Competitive Intelligence Dashboard
 
-> Amazon India Luggage Brand Analysis — Moonshot AI Agent Internship Assignment
-
+> Amazon India Luggage Brand Analysis
 ## What This Does
 
 An end-to-end intelligence pipeline that:
@@ -12,7 +11,17 @@ An end-to-end intelligence pipeline that:
 
 ---
 
-## Architecture
+# Deployed Project
+https://moonshotdashboard-maharshi3006.streamlit.app/
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/066b28d5-bb0b-4500-aff7-df56af13bae0" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b6d1fba2-86a4-4168-8078-1e3b00cb665f" />
+<img width="1470" height="956" alt="Screenshot 2026-04-02 at 12 18 42 AM" src="https://github.com/user-attachments/assets/4d93eb7c-d15c-476c-812e-9d11fd6d0e4e" />
+<img width="1470" height="956" alt="Screenshot 2026-04-02 at 12 18 56 AM" src="https://github.com/user-attachments/assets/148b6b39-0672-4d79-b5a3-6bdfc601f2ec" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9aafd442-3408-4542-8329-bd16c967a936" />
+<img width="1470" height="956" alt="Screenshot 2026-04-02 at 12 19 44 AM" src="https://github.com/user-attachments/assets/cb93dfe7-78bb-4384-85af-446edb60b656" />
+
+## Architecture 
 
 ```
 moonshot-assignment/
