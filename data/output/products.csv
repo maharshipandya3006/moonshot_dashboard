@@ -1,0 +1,73 @@
+asin,brand,title,product_line,size,mrp,selling_price,discount_pct,rating,review_count,segment,url
+B896233790,Safari,Safari Thorium Cabin (55 cm) Luggage,Thorium,Cabin (55 cm),3412,2013,41,4.1,351,mid-range,https://www.amazon.in/dp/B395310485
+B249827706,Safari,Safari Moonbeam Medium (65 cm) Luggage,Moonbeam,Medium (65 cm),4506,2568,43,4.5,757,mid-range,https://www.amazon.in/dp/B890779946
+B895285932,Safari,Safari Polaris Large (75 cm) Luggage,Polaris,Large (75 cm),3339,2136,36,4.0,1685,mid-range,https://www.amazon.in/dp/B685582861
+B553035110,Safari,Safari Zenith Set of 3 Luggage,Zenith,Set of 3,3212,1606,50,4.3,1509,mid-range,https://www.amazon.in/dp/B134126396
+B334760738,Safari,Safari Superlite Cabin (55 cm) Luggage,Superlite,Cabin (55 cm),2744,1811,34,4.2,491,mid-range,https://www.amazon.in/dp/B349817734
+B128492780,Safari,Safari Fabric Series Medium (65 cm) Luggage,Fabric Series,Medium (65 cm),6639,4381,34,4.0,1532,mid-range,https://www.amazon.in/dp/B702632297
+B797808098,Safari,Safari Optima Large (75 cm) Luggage,Optima,Large (75 cm),4128,2518,39,3.6,1766,mid-range,https://www.amazon.in/dp/B853041955
+B336696312,Safari,Safari Prestige Set of 3 Luggage,Prestige,Set of 3,6964,5292,24,4.0,1159,mid-range,https://www.amazon.in/dp/B582334538
+B969119330,Safari,Safari Glide Cabin (55 cm) Luggage,Glide,Cabin (55 cm),7327,5202,29,4.2,869,mid-range,https://www.amazon.in/dp/B106977991
+B553778756,Safari,Safari Trek Medium (65 cm) Luggage,Trek,Medium (65 cm),3807,2664,30,3.7,1729,mid-range,https://www.amazon.in/dp/B465341213
+B331191390,Safari,Safari Flash Large (75 cm) Luggage,Flash,Large (75 cm),4776,2435,49,4.0,618,mid-range,https://www.amazon.in/dp/B919795579
+B199585092,Safari,Safari Scope Set of 3 Luggage,Scope,Set of 3,5257,3259,38,3.7,509,mid-range,https://www.amazon.in/dp/B507943839
+B469319644,Skybags,Skybags Swag Cabin (55 cm) Luggage,Swag,Cabin (55 cm),2592,1555,40,3.9,3740,value,https://www.amazon.in/dp/B748245888
+B883543540,Skybags,Skybags Strio Medium (65 cm) Luggage,Strio,Medium (65 cm),3966,2577,35,4.0,1155,value,https://www.amazon.in/dp/B593303705
+B184611066,Skybags,Skybags Backpacker Large (75 cm) Luggage,Backpacker,Large (75 cm),2822,1693,40,3.8,3900,value,https://www.amazon.in/dp/B692749116
+B719927151,Skybags,Skybags Neon XL (80 cm) Luggage,Neon,XL (80 cm),4201,2520,40,4.4,3762,value,https://www.amazon.in/dp/B306468299
+B810026086,Skybags,Skybags Fab Cabin (55 cm) Luggage,Fab,Cabin (55 cm),2369,1326,44,3.6,1175,value,https://www.amazon.in/dp/B344703907
+B349957310,Skybags,Skybags Lazer Medium (65 cm) Luggage,Lazer,Medium (65 cm),4170,2043,51,3.6,1453,value,https://www.amazon.in/dp/B208449460
+B586845604,Skybags,Skybags Milford Large (75 cm) Luggage,Milford,Large (75 cm),4913,2653,46,3.4,3077,value,https://www.amazon.in/dp/B782560971
+B497478786,Skybags,Skybags Reverb XL (80 cm) Luggage,Reverb,XL (80 cm),4788,3160,34,3.9,2132,value,https://www.amazon.in/dp/B481469012
+B853573823,Skybags,Skybags Centuple Cabin (55 cm) Luggage,Centuple,Cabin (55 cm),3516,1758,50,3.9,2987,value,https://www.amazon.in/dp/B833953718
+B673528321,Skybags,Skybags Hexa Medium (65 cm) Luggage,Hexa,Medium (65 cm),2384,1335,44,3.8,2201,value,https://www.amazon.in/dp/B882893941
+B596348124,Skybags,Skybags Cosmo Large (75 cm) Luggage,Cosmo,Large (75 cm),3805,2549,33,3.7,2138,value,https://www.amazon.in/dp/B507437181
+B835098955,Skybags,Skybags Rapid XL (80 cm) Luggage,Rapid,XL (80 cm),4011,2366,41,4.2,2599,value,https://www.amazon.in/dp/B448195935
+B982403818,American Tourister,American Tourister Linex Cabin (55 cm) Luggage,Linex,Cabin (55 cm),4416,3002,32,3.9,769,premium-mid,https://www.amazon.in/dp/B134467368
+B387484583,American Tourister,American Tourister Starvibe Medium (68 cm) Luggage,Starvibe,Medium (68 cm),8668,5894,32,4.2,1121,premium-mid,https://www.amazon.in/dp/B171069472
+B870854579,American Tourister,American Tourister Spinner Large (77 cm) Luggage,Spinner,Large (77 cm),6956,5286,24,4.5,1461,premium-mid,https://www.amazon.in/dp/B437882805
+B636045484,American Tourister,American Tourister Wavetw Set of 2 Luggage,Wavetw,Set of 2,6983,4329,38,4.5,1642,premium-mid,https://www.amazon.in/dp/B524806516
+B384412919,American Tourister,American Tourister Seaventure Cabin (55 cm) Luggage,Seaventure,Cabin (55 cm),11017,8483,23,4.2,592,premium-mid,https://www.amazon.in/dp/B249926919
+B702764446,American Tourister,American Tourister Beau Medium (68 cm) Luggage,Beau,Medium (68 cm),7540,5127,32,4.5,1825,premium-mid,https://www.amazon.in/dp/B678722458
+B727694430,American Tourister,American Tourister Curio Large (77 cm) Luggage,Curio,Large (77 cm),7804,5774,26,4.3,1829,premium-mid,https://www.amazon.in/dp/B560027313
+B335493870,American Tourister,American Tourister Trigard Set of 2 Luggage,Trigard,Set of 2,10043,7933,21,4.0,1041,premium-mid,https://www.amazon.in/dp/B248532577
+B197613238,American Tourister,American Tourister Moonbeam Cabin (55 cm) Luggage,Moonbeam,Cabin (55 cm),11848,7582,36,4.6,1310,premium-mid,https://www.amazon.in/dp/B911514914
+B264112119,American Tourister,American Tourister Alltrail Medium (68 cm) Luggage,Alltrail,Medium (68 cm),4271,3032,29,4.6,524,premium-mid,https://www.amazon.in/dp/B773715057
+B830661141,American Tourister,American Tourister Backfire Large (77 cm) Luggage,Backfire,Large (77 cm),6121,4162,32,4.1,1922,premium-mid,https://www.amazon.in/dp/B553290810
+B509760584,American Tourister,American Tourister Fieldwork Set of 2 Luggage,Fieldwork,Set of 2,4540,3087,32,4.7,1088,premium-mid,https://www.amazon.in/dp/B739830322
+B369953851,VIP,VIP Odyssey Cabin (55 cm) Luggage,Odyssey,Cabin (55 cm),5834,3558,39,4.4,641,mid-range,https://www.amazon.in/dp/B694021782
+B873869166,VIP,VIP Vectra Medium (65 cm) Luggage,Vectra,Medium (65 cm),2094,1696,19,4.2,796,mid-range,https://www.amazon.in/dp/B222998994
+B906248900,VIP,VIP Vantage Large (75 cm) Luggage,Vantage,Large (75 cm),7584,4550,40,3.9,649,mid-range,https://www.amazon.in/dp/B386501362
+B219778234,VIP,VIP Elanza XL (85 cm) Luggage,Elanza,XL (85 cm),7250,4350,40,3.5,448,mid-range,https://www.amazon.in/dp/B415143362
+B587182120,VIP,VIP Spectra Cabin (55 cm) Luggage,Spectra,Cabin (55 cm),5561,3447,38,4.1,261,mid-range,https://www.amazon.in/dp/B103484630
+B637500247,VIP,VIP Rochester Medium (65 cm) Luggage,Rochester,Medium (65 cm),7915,3878,51,3.9,369,mid-range,https://www.amazon.in/dp/B918150683
+B214257751,VIP,VIP Turbo Large (75 cm) Luggage,Turbo,Large (75 cm),3463,2320,33,3.9,619,mid-range,https://www.amazon.in/dp/B771410971
+B645098869,VIP,VIP Sapphire XL (85 cm) Luggage,Sapphire,XL (85 cm),4444,2355,47,4.1,754,mid-range,https://www.amazon.in/dp/B753876785
+B501486939,VIP,VIP Premier Cabin (55 cm) Luggage,Premier,Cabin (55 cm),3629,2358,35,4.1,256,mid-range,https://www.amazon.in/dp/B918739736
+B936043811,VIP,VIP Classic Medium (65 cm) Luggage,Classic,Medium (65 cm),3323,1993,40,4.2,652,mid-range,https://www.amazon.in/dp/B669462919
+B448059918,VIP,VIP Magnus Large (75 cm) Luggage,Magnus,Large (75 cm),2004,1322,34,3.9,713,mid-range,https://www.amazon.in/dp/B624636385
+B489747629,VIP,VIP Crest XL (85 cm) Luggage,Crest,XL (85 cm),2159,1381,36,3.6,214,mid-range,https://www.amazon.in/dp/B992994062
+B357109965,Aristocrat,Aristocrat Opal Cabin (55 cm) Luggage,Opal,Cabin (55 cm),4804,2305,52,3.8,414,budget,https://www.amazon.in/dp/B162196678
+B184564737,Aristocrat,Aristocrat Crystal Medium (65 cm) Luggage,Crystal,Medium (65 cm),2486,1243,50,3.6,680,budget,https://www.amazon.in/dp/B191969690
+B976198296,Aristocrat,Aristocrat Poise Large (75 cm) Luggage,Poise,Large (75 cm),4497,2788,38,3.6,597,budget,https://www.amazon.in/dp/B174316370
+B922308461,Aristocrat,Aristocrat Elan Cabin (55 cm) Luggage,Elan,Cabin (55 cm),4615,2445,47,3.5,645,budget,https://www.amazon.in/dp/B235034324
+B610330567,Aristocrat,Aristocrat Sprint Medium (65 cm) Luggage,Sprint,Medium (65 cm),2025,1053,48,3.8,775,budget,https://www.amazon.in/dp/B690347116
+B666585408,Aristocrat,Aristocrat Glide Large (75 cm) Luggage,Glide,Large (75 cm),2176,761,65,3.7,371,budget,https://www.amazon.in/dp/B751325257
+B679064766,Aristocrat,Aristocrat Ultra Cabin (55 cm) Luggage,Ultra,Cabin (55 cm),3233,1551,52,3.7,316,budget,https://www.amazon.in/dp/B910959828
+B865523129,Aristocrat,Aristocrat Style Medium (65 cm) Luggage,Style,Medium (65 cm),4489,2962,34,3.7,305,budget,https://www.amazon.in/dp/B434702822
+B797801251,Aristocrat,Aristocrat Edge Large (75 cm) Luggage,Edge,Large (75 cm),3134,1567,50,4.3,787,budget,https://www.amazon.in/dp/B500957212
+B584779555,Aristocrat,Aristocrat Smart Cabin (55 cm) Luggage,Smart,Cabin (55 cm),3294,1712,48,3.8,629,budget,https://www.amazon.in/dp/B229927269
+B168747287,Aristocrat,Aristocrat Pro Medium (65 cm) Luggage,Pro,Medium (65 cm),2515,1282,49,3.4,330,budget,https://www.amazon.in/dp/B463016614
+B694768704,Aristocrat,Aristocrat Lite Large (75 cm) Luggage,Lite,Large (75 cm),1586,650,59,3.9,702,budget,https://www.amazon.in/dp/B347083812
+B107721109,Nasher Miles,Nasher Miles Derby Cabin (55 cm) Luggage,Derby,Cabin (55 cm),7820,4613,41,4.0,325,premium-mid,https://www.amazon.in/dp/B176228245
+B163215224,Nasher Miles,Nasher Miles Bruges Medium (65 cm) Luggage,Bruges,Medium (65 cm),8798,4750,46,3.8,746,premium-mid,https://www.amazon.in/dp/B345824373
+B454794895,Nasher Miles,Nasher Miles Liverpool Large (75 cm) Luggage,Liverpool,Large (75 cm),3552,2166,39,4.7,132,premium-mid,https://www.amazon.in/dp/B176082500
+B399012686,Nasher Miles,Nasher Miles Milan Set of 3 Luggage,Milan,Set of 3,7211,5264,27,4.1,343,premium-mid,https://www.amazon.in/dp/B818309417
+B678998028,Nasher Miles,Nasher Miles Almaty Cabin (55 cm) Luggage,Almaty,Cabin (55 cm),6976,4534,35,4.1,319,premium-mid,https://www.amazon.in/dp/B242068763
+B718702544,Nasher Miles,Nasher Miles Boston Medium (65 cm) Luggage,Boston,Medium (65 cm),8925,6961,22,4.2,684,premium-mid,https://www.amazon.in/dp/B607526654
+B967043303,Nasher Miles,Nasher Miles London Large (75 cm) Luggage,London,Large (75 cm),4990,3692,26,4.3,584,premium-mid,https://www.amazon.in/dp/B537077308
+B204078666,Nasher Miles,Nasher Miles Dubai Set of 3 Luggage,Dubai,Set of 3,4559,3328,27,4.6,196,premium-mid,https://www.amazon.in/dp/B807577342
+B554814084,Nasher Miles,Nasher Miles Colombo Cabin (55 cm) Luggage,Colombo,Cabin (55 cm),6531,4702,28,4.1,462,premium-mid,https://www.amazon.in/dp/B541417711
+B823019672,Nasher Miles,Nasher Miles Bali Medium (65 cm) Luggage,Bali,Medium (65 cm),6825,4026,41,3.9,155,premium-mid,https://www.amazon.in/dp/B801642483
+B165082363,Nasher Miles,Nasher Miles Geneva Large (75 cm) Luggage,Geneva,Large (75 cm),8293,5307,36,4.5,200,premium-mid,https://www.amazon.in/dp/B532311310
+B959629660,Nasher Miles,Nasher Miles Tokyo Set of 3 Luggage,Tokyo,Set of 3,8965,6992,22,4.2,447,premium-mid,https://www.amazon.in/dp/B217326729
