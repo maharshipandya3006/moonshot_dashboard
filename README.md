@@ -1,6 +1,9 @@
 # 🧳 Moonshot Competitive Intelligence Dashboard
 
 > Amazon India Luggage Brand Analysis
+
+The Moonshot Dashboard is a full stack intelligence platform designed to help analyze and visualize product and brand performance on Amazon India. It combines data scraping, sentiment analysis, and AI-generated insights to provide actionable intelligence for decision-making.
+
 ## What This Does
 
 An end-to-end intelligence pipeline that:
